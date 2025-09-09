@@ -3,26 +3,26 @@ import { Code, Smartphone, Cloud, BarChart3, Palette, Shield } from 'lucide-reac
 const services = [
   {
     icon: Code,
-    title: 'Web Development',
-    description: 'Custom web applications built with modern technologies for optimal performance and user experience.',
+    title: 'Data Engineering',
+    description: 'Build secure, scalable, and efficient cloud data pipelines and architectures to manage data seamlessly.',
     features: ['React & Next.js', 'Full-stack Solutions', 'API Integration', 'Responsive Design']
   },
   {
     icon: Smartphone,
-    title: 'Mobile Development',
-    description: 'Native and cross-platform mobile apps that engage users and drive business growth.',
+    title: 'Data Visualization & Analytics',
+    description: 'Turn complex datasets into clear, interactive dashboards that drive business intelligence and decision-making.',
     features: ['iOS & Android', 'React Native', 'UI/UX Design', 'App Store Optimization']
   },
   {
     icon: Cloud,
-    title: 'Cloud Solutions',
-    description: 'Scalable cloud infrastructure and migration services for enhanced reliability and performance.',
+    title: 'AI & Machine Learning',
+    description: 'Deploy intelligent solutions that automate processes, uncover patterns, and provide predictive insights.',
     features: ['AWS & Azure', 'DevOps', 'Microservices', 'Auto-scaling']
   },
   {
     icon: BarChart3,
-    title: 'Digital Strategy',
-    description: 'Data-driven strategies to transform your business and accelerate digital growth.',
+    title: 'Cloud Infrastructure',
+    description: 'Deliver flexible, secure, and cost-effective cloud environments to support data and AI-driven workloads.',
     features: ['Market Analysis', 'Technology Roadmap', 'Process Optimization', 'Growth Hacking']
   },
   {

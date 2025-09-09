@@ -8,7 +8,7 @@ const Cloud = () => {
       <main>
         <section className="py-20 px-4">
           <div className="max-w-6xl mx-auto">
-            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Cloud Solutions</h1>
+            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Cross-Industry Value</h1>
             <p className="text-lg text-muted-foreground text-center mb-16 max-w-3xl mx-auto">
               Scale your business with secure, reliable, and cost-effective cloud infrastructure solutions that grow with your needs.
             </p>

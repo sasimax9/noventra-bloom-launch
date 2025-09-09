@@ -8,7 +8,7 @@ const Web = () => {
       <main>
         <section className="py-20 px-4">
           <div className="max-w-6xl mx-auto">
-            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Web Development</h1>
+            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Supply Chain & Manufacturing</h1>
             <p className="text-lg text-muted-foreground text-center mb-16 max-w-3xl mx-auto">
               Create stunning, high-performance websites that engage your audience and drive business growth with our custom web development solutions.
             </p>

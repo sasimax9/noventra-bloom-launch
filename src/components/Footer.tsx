@@ -2,10 +2,10 @@ import { MessageCircle, Phone, Mail, Linkedin, Twitter, Github, ArrowUp } from '
 
 const footerLinks = {
   services: [
-    { title: 'Web Development', href: '/services/web' },
-    { title: 'Mobile Development', href: '/services/mobile' },
-    { title: 'Cloud Solutions', href: '/services/cloud' },
-    { title: 'Digital Strategy', href: '/services/strategy' }
+    { title: 'Supply Chain & Manufacturing', href: '/services/web' },
+    { title: 'Healthcare & Life Sciences', href: '/services/mobile' },
+    { title: 'FinTech & Financial Services', href: '/services/cloud' },
+    { title: 'Cross-Industry Value', href: '/services/strategy' }
   ],
   company: [
     { title: 'About Us', href: '/about' },

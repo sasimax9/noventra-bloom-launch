@@ -8,7 +8,7 @@ const Mobile = () => {
       <main>
         <section className="py-20 px-4">
           <div className="max-w-6xl mx-auto">
-            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Mobile App Development</h1>
+            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Healthcare & Life Sciences</h1>
             <p className="text-lg text-muted-foreground text-center mb-16 max-w-3xl mx-auto">
               Build powerful, user-friendly mobile applications for iOS and Android that engage your customers and grow your business.
             </p>

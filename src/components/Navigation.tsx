@@ -28,10 +28,10 @@ const menuItems: MenuItem[] = [
     title: 'Services', 
     href: '/services',
     subItems: [
-      { title: 'Web Development', href: '/services/web', description: 'Custom web solutions' },
-      { title: 'Mobile Apps', href: '/services/mobile', description: 'iOS & Android development' },
-      { title: 'Digital Strategy', href: '/services/strategy', description: 'Business transformation' },
-      { title: 'Cloud Solutions', href: '/services/cloud', description: 'Scalable infrastructure' }
+      { title: 'Supply Chain & Manufacturing', href: '/services/web', description: 'Transforming supply chains with data-driven intelligence for agility and resilience.' },
+      { title: 'Healthcare & Life Sciences', href: '/services/mobile', description: 'Enabling better patient outcomes and operational efficiency through secure data solutions.' },
+      { title: 'FinTech & Financial Services', href: '/services/strategy', description: 'Driving smarter decisions, risk reduction, and innovation in digital finance.' },
+      { title: 'Cross-Industry Value', href: '/services/cloud', description: 'No matter the domain, our expertise ensures:' }
     ]
   },
   { 

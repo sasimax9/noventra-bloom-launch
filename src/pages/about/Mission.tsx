@@ -14,7 +14,7 @@ const Mission = () => {
               <div className="bg-gradient-subtle rounded-lg p-8">
                 <h2 className="text-2xl font-semibold text-foreground mb-6">Our Mission</h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  To empower businesses with innovative digital solutions that drive growth, enhance customer experiences, and create lasting value. We believe in the transformative power of technology when combined with human creativity and strategic thinking.
+                  To become a trusted technology partner for small and mid-scale businesses worldwide by delivering innovative, sustainable, and result-driven IT solutions that fuel growth and success.
                 </p>
               </div>
               

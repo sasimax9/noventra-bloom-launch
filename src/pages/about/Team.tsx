@@ -17,7 +17,7 @@ const Team = () => {
           <div className="max-w-6xl mx-auto">
             <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Meet Our Team</h1>
             <p className="text-lg text-muted-foreground text-center mb-16 max-w-3xl mx-auto">
-              Our diverse team of experts brings together years of experience in technology, design, and business strategy to deliver exceptional results for our clients.
+              Behind every solution we deliver is a team of passionate professionals who believe in the power of data and technology to transform businesses. At NoventraOne, our team brings together diverse expertise in cloud infrastructure, data engineering, data visualization, and AI/ML, united by a common goal—to create meaningful impact for our clients.
             </p>
             
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

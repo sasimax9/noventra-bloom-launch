@@ -8,7 +8,7 @@ const Strategy = () => {
       <main>
         <section className="py-20 px-4">
           <div className="max-w-6xl mx-auto">
-            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">Digital Strategy</h1>
+            <h1 className="text-4xl font-bold gradient-primary bg-clip-text text-transparent mb-8 text-center">FinTech & Financial Services</h1>
             <p className="text-lg text-muted-foreground text-center mb-16 max-w-3xl mx-auto">
               Transform your business with strategic digital solutions that drive growth, improve efficiency, and create competitive advantages.
             </p>
