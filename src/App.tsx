@@ -21,12 +21,16 @@ import Cloud from "./pages/services/Cloud";
 import Ecommerce from "./pages/case-studies/Ecommerce";
 import Healthcare from "./pages/case-studies/Healthcare";
 import Fintech from "./pages/case-studies/Fintech";
+import SiteHeader from "./components/SiteHeader";
 
 const queryClient = new QueryClient();
 
 const App = () => (
+  
   <QueryClientProvider client={queryClient}>
+    
     <TooltipProvider>
+      {/* <SiteHeader /> */}
       <Toaster />
       <Sonner />
       <BrowserRouter>
