@@ -161,19 +161,21 @@ const Contact = () => {
                     Service Interest
                   </label>
                   <select
-                    id="service"
-                    name="service"
-                    className="w-full px-4 py-3 bg-background border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-smooth"
-                  >
-                    <option value="">Select a service</option>
-                    <option value="web-development">Web Development</option>
-                    <option value="mobile-development">Mobile Development</option>
-                    <option value="cloud-solutions">Cloud Solutions</option>
-                    <option value="digital-strategy">Digital Strategy</option>
-                    <option value="ui-ux-design">UI/UX Design</option>
-                    <option value="cybersecurity">Cybersecurity</option>
-                    <option value="consultation">General Consultation</option>
-                  </select>
+                      id="service"
+                      name="service"
+                      className="w-full px-4 py-3 bg-background border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-smooth"
+                    >
+                      <option value="">Select a service</option>
+                      <option value="web-development">Data Engineering</option>
+                      <option value="mobile-development">
+                       Data Visualization & Analytics
+                      </option>
+                      <option value="cloud-solutions">AI & Machine Learning</option>
+                      <option value="digital-strategy">Cloud Infrastructure</option>
+                      <option value="ui-ux-design">UI/UX Design</option>
+                      <option value="cybersecurity">Realtime Data Streaming</option>
+                      <option value="consultation">General Consultation</option>
+                    </select>
                 </div>
 
                 <div>
