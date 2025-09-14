@@ -41,7 +41,7 @@ const DataEngineering = () => {
                 <h2 className="text-2xl font-semibold text-foreground mb-6">
                   Data migration
                 </h2>
-                <p>
+                <p className="text-lg text-muted-foreground text-left max-w-6xl mx-auto">
                   We help businesses seamlessly migrate their data from legacy
                   systems to modern platforms with minimal downtime and zero
                   data loss. Our approach ensures secure, reliable, and
