@@ -35,25 +35,25 @@ const RealtimeDataStreaming = () => {
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Responsive web design that works on all devices</span>
+                    <span>Event-driven architectures to process data as it happens</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Custom web applications tailored to your needs</span>
+                    <span>Real-time dashboards for instant monitoring and decision-making</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                      E-commerce platforms with secure payment integration
+                     Stream processing pipelines to handle high-volume, high-velocity data
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Content management systems for easy updates</span>
+                    <span>Integration with IoT devices for continuous data capture and analysis</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>SEO optimization for better search visibility</span>
+                    <span>Scalable streaming platforms (Kafka, Kinesis, etc.) for enterprise-grade reliability</span>
                   </li>
                 </ul>
               </div>

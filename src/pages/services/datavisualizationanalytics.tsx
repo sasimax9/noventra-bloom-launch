@@ -34,25 +34,25 @@ const DataVisualization = () => {
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Responsive web design that works on all devices</span>
+                    <span>Interactive dashboards that provide actionable insights at a glance</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Custom web applications tailored to your needs</span>
+                    <span>Custom visual reports tailored to business goals and KPIs</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                      E-commerce platforms with secure payment integration
+                      Advanced analytics visualizations to uncover hidden patterns and trends
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Content management systems for easy updates</span>
+                    <span>Real-time monitoring dashboards for live data tracking</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>SEO optimization for better search visibility</span>
+                    <span>Storytelling with data to communicate insights effectively to stakeholders</span>
                   </li>
                 </ul>
               </div>

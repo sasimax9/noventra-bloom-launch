@@ -36,25 +36,25 @@ const AIMachineLearning = () => {
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Responsive web design that works on all devices</span>
+                    <span>Predictive analytics models to forecast business outcomes</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Custom web applications tailored to your needs</span>
+                    <span>Natural Language Processing (NLP) solutions for text and speech analysis</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                      E-commerce platforms with secure payment integration
+                     Computer vision applications for image and video intelligence
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Content management systems for easy updates</span>
+                    <span>Recommendation systems to personalize customer experiences</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>SEO optimization for better search visibility</span>
+                    <span>AI-powered automation to optimize workflows and reduce manual effort</span>
                   </li>
                 </ul>
               </div>

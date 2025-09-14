@@ -35,25 +35,25 @@ const UIUXDesign = () => {
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Responsive web design that works on all devices</span>
+                    <span>User-centered design focused on seamless digital experiences</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Custom web applications tailored to your needs</span>
+                    <span>Intuitive interface designs that enhance usability and engagement</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                      E-commerce platforms with secure payment integration
+                     Wireframing and prototyping to bring ideas to life before development
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Content management systems for easy updates</span>
+                    <span>Responsive designs optimized for web and mobile platforms</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>SEO optimization for better search visibility</span>
+                    <span>Usability testing and feedback loops to continuously improve experiences</span>
                   </li>
                 </ul>
               </div>

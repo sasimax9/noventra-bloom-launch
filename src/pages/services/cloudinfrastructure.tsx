@@ -34,25 +34,25 @@ const CloudInfrastructure = () => {
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Responsive web design that works on all devices</span>
+                    <span>Scalable cloud architecture to support business growth and flexibility</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Custom web applications tailored to your needs</span>
+                    <span>Secure cloud migration services with minimal downtime</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                      E-commerce platforms with secure payment integration
+                      Multi-cloud and hybrid solutions for optimized performance and cost
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Content management systems for easy updates</span>
+                    <span>Cloud monitoring and management for reliability and efficiency</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>SEO optimization for better search visibility</span>
+                    <span>Backup and disaster recovery strategies to ensure business continuity</span>
                   </li>
                 </ul>
               </div>
