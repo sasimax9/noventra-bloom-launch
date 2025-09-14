@@ -13,8 +13,8 @@ const contactMethods = [
     icon: Phone,
     title: 'Call Us',
     description: 'Speak directly with our experts',
-    action: '+919845980524',
-    href: 'tel:+919611220524',
+    action: '+9198459 80524',
+    href: 'tel:+91 96112 20524',
     color: 'text-primary'
   },
   {
