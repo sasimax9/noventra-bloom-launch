@@ -63,14 +63,12 @@ const RealtimeDataStreaming = () => {
                   Technologies We Use
                 </h3>
                 <div className="grid grid-cols-2 gap-4 text-sm text-muted-foreground">
-                  <div>React</div>
-                  <div>Vue.js</div>
-                  <div>Angular</div>
-                  <div>Node.js</div>
-                  <div>Python</div>
-                  <div>PHP</div>
-                  <div>WordPress</div>
-                  <div>Shopify</div>
+                  <div>Apache Kafka</div>
+                  <div>Amazon Kinesis</div>
+                  <div>Azure Event Hubs</div>
+                  <div>Google Pub/Sub</div>
+                  <div>Apache Flink</div>
+                  <div>More...</div>
                 </div>
               </div>
             </div>

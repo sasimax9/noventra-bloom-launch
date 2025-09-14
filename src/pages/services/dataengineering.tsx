@@ -74,14 +74,13 @@ const DataEngineering = () => {
                   Technologies We Use
                 </h3>
                 <div className="grid grid-cols-2 gap-4 text-sm text-muted-foreground">
-                  <div>React</div>
-                  <div>Vue.js</div>
-                  <div>Angular</div>
-                  <div>Node.js</div>
-                  <div>Python</div>
-                  <div>PHP</div>
-                  <div>WordPress</div>
-                  <div>Shopify</div>
+                  <div>Apache Spark </div>
+                  <div>Databricks</div>
+                  <div>Snowflake</div>
+                  <div>Apache Kafka</div>
+                  <div>Azure Data Factory (ADF)</div>
+                  <div>More...</div>
+
                 </div>
               </div>
             </div>

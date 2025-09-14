@@ -62,14 +62,12 @@ const DataVisualization = () => {
                   Technologies We Use
                 </h3>
                 <div className="grid grid-cols-2 gap-4 text-sm text-muted-foreground">
-                  <div>React</div>
-                  <div>Vue.js</div>
-                  <div>Angular</div>
-                  <div>Node.js</div>
-                  <div>Python</div>
-                  <div>PHP</div>
-                  <div>WordPress</div>
-                  <div>Shopify</div>
+                  <div>Power BI</div>
+                  <div>Tableau</div>
+                  <div>Looker</div>
+                  <div>Apache Superset</div>
+                  <div>Matplotlib & Plotly (Python)</div>
+                  <div>More...</div>
                 </div>
               </div>
             </div>

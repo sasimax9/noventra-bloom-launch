@@ -62,14 +62,12 @@ const CloudInfrastructure = () => {
                   Technologies We Use
                 </h3>
                 <div className="grid grid-cols-2 gap-4 text-sm text-muted-foreground">
-                  <div>React</div>
-                  <div>Vue.js</div>
-                  <div>Angular</div>
-                  <div>Node.js</div>
-                  <div>Python</div>
-                  <div>PHP</div>
-                  <div>WordPress</div>
-                  <div>Shopify</div>
+                  <div>AWS</div>
+                  <div>Microsoft Azure</div>
+                  <div>Google Cloud Platform (GCP)</div>
+                  <div>Docker</div>
+                  <div>Kubernetes</div>
+                  <div>More...</div>
                 </div>
               </div>
             </div>

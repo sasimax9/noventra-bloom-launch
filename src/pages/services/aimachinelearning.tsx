@@ -64,14 +64,12 @@ const AIMachineLearning = () => {
                   Technologies We Use
                 </h3>
                 <div className="grid grid-cols-2 gap-4 text-sm text-muted-foreground">
-                  <div>React</div>
-                  <div>Vue.js</div>
-                  <div>Angular</div>
-                  <div>Node.js</div>
-                  <div>Python</div>
-                  <div>PHP</div>
-                  <div>WordPress</div>
-                  <div>Shopify</div>
+                  <div>TensorFlow</div>
+                  <div>PyTorch</div>
+                  <div>Scikit-learn</div>
+                  <div>Keras</div>
+                  <div>MLflow</div>
+                  <div>More...</div>
                 </div>
               </div>
             </div>
