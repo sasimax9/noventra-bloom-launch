@@ -20,7 +20,7 @@ const Team = () => {
               Behind every solution we deliver is a team of passionate professionals who believe in the power of data and technology to transform businesses. At NoventraOne, our team brings together diverse expertise in cloud infrastructure, data engineering, data visualization, and AI/ML, united by a common goal—to create meaningful impact for our clients.
             </p>
             
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {/* <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
               {teamMembers.map((member, index) => (
                 <div key={index} className="text-center group">
                   <div className="relative mb-6">
@@ -35,7 +35,7 @@ const Team = () => {
                   <p className="text-muted-foreground">{member.role}</p>
                 </div>
               ))}
-            </div>
+            </div> */}
 
             <div className="mt-20 bg-gradient-subtle rounded-lg p-8 text-center">
               <h2 className="text-2xl font-semibold text-foreground mb-4">Join Our Team</h2>

@@ -44,7 +44,7 @@ const Story = () => {
                 empowering businesses to turn their data into opportunityand
                 their challenges into growth.
               </p>
-              <div className="bg-gradient-subtle rounded-lg p-8 mt-12">
+              {/* <div className="bg-gradient-subtle rounded-lg p-8 mt-12">
                 <h2 className="text-2xl font-semibold text-foreground mb-4">
                   Our Milestones
                 </h2>
@@ -74,7 +74,7 @@ const Story = () => {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </section>
