@@ -73,7 +73,7 @@ const RealtimeDataStreaming = () => {
               </div>
             </div>
 
-            <div className="grid md:grid-cols-3 gap-8 mb-16">
+            {/* <div className="grid md:grid-cols-3 gap-8 mb-16">
               <div className="text-center p-6 border border-border rounded-lg">
                 <div className="text-3xl mb-4">🚀</div>
                 <h3 className="font-semibold text-foreground mb-2">
@@ -103,14 +103,14 @@ const RealtimeDataStreaming = () => {
                   Designed for mobile users with responsive layouts
                 </p>
               </div>
-            </div>
+            </div> */}
 
             <div className="text-center bg-gradient-subtle rounded-lg p-8">
               <h2 className="text-2xl font-semibold text-foreground mb-4">
-                Ready to Start Your Web Project?
+                Ready to Start Your Project?
               </h2>
               <p className="text-muted-foreground mb-6">
-                Let's discuss your web development needs and create something
+               Let's connect & create something
                 amazing together.
               </p>
               <a

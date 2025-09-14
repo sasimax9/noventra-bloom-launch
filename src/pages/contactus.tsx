@@ -15,8 +15,8 @@ const contactMethods = [
     icon: Phone,
     title: "Call Us",
     description: "Speak directly with our experts",
-    action: "+91 98851 94867",
-    href: "tel:+919885194867",
+    action: "+919845980524",
+    href: "tel:+919611220524",
     color: "text-primary",
   },
   {
