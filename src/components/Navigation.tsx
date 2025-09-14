@@ -28,29 +28,29 @@ const menuItems: MenuItem[] = [
       { title: "Mission & Vision", href: "/about/mission", description: "Our purpose and goals" },
     ],
   },
-  {
-    title: "Domains",
-    href: "",
-    subItems: [
-      {
-        title: "Supply Chain & Manufacturing",
-        href: "/domains/web",
-        description: "Transforming supply chains with data-driven intelligence for agility and resilience.",
-      },
+  // {
+  //   title: "Domains",
+  //   href: "",
+  //   subItems: [
+  //     {
+  //       title: "Supply Chain & Manufacturing",
+  //       href: "/domains/web",
+  //       description: "Transforming supply chains with data-driven intelligence for agility and resilience.",
+  //     },
   
-      {
-        title: "Healthcare & Life Sciences",
-        href: "/domains/mobile",
-        description: "Enabling better patient outcomes and operational efficiency through secure data solutions.",
-      },
-      {
-        title: "FinTech & Financial Services",
-        href: "/domains/strategy",
-        description: "Driving smarter decisions, risk reduction, and innovation in digital finance.",
-      },
-      { title: "Cross-Industry Value", href: "/domains/cloud", description: "No matter the domain, our expertise ensures:" },
-    ],
-  },
+  //     {
+  //       title: "Healthcare & Life Sciences",
+  //       href: "/domains/mobile",
+  //       description: "Enabling better patient outcomes and operational efficiency through secure data solutions.",
+  //     },
+  //     {
+  //       title: "FinTech & Financial Services",
+  //       href: "/domains/strategy",
+  //       description: "Driving smarter decisions, risk reduction, and innovation in digital finance.",
+  //     },
+  //     { title: "Cross-Industry Value", href: "/domains/cloud", description: "No matter the domain, our expertise ensures:" },
+  //   ],
+  // },
    {
     title: "Services",
     href: "",
@@ -93,12 +93,12 @@ const menuItems: MenuItem[] = [
   },
   {
     title: "Case Studies",
-    href: "",
-    subItems: [
-      { title: "E-commerce", href: "/case-studies/ecommerce", description: "Online retail solutions" },
-      { title: "Healthcare", href: "/case-studies/healthcare", description: "Medical tech innovations" },
-      { title: "FinTech", href: "/case-studies/fintech", description: "Financial technology" },
-    ],
+    href: "/casestudies",
+    // subItems: [
+    //   { title: "E-commerce", href: "/case-studies/ecommerce", description: "Online retail solutions" },
+    //   { title: "Healthcare", href: "/case-studies/healthcare", description: "Medical tech innovations" },
+    //   { title: "FinTech", href: "/case-studies/fintech", description: "Financial technology" },
+    // ],
   },
   { title: "Contact Us", href: "/contact" },
 ];

@@ -29,6 +29,7 @@ import UIUXDesign from "./pages/services/uxdesign";
 import RealtimeDataStreaming from "./pages/services/realtimedata";
 import Contact from "./components/Contact";
 import ContactUs from "./pages/contactus";
+import CaseStudies from "./pages/casestudies";
 
 const queryClient = new QueryClient();
 
@@ -81,6 +82,7 @@ const App = () => (
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
           <Route path="/contact" element={<ContactUs />} />
+           <Route path="/casestudies" element={<CaseStudies />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>

@@ -13,13 +13,11 @@ const DataEngineering = () => {
             </h1>
             <p className="text-lg text-muted-foreground text-left max-w-6xl mx-auto">
               Our Data Engineering services focus on building the backbone of
-              modern data-driven enterprises. We design and implement scalable data pipelines that seamlessly
-              connect multiple sources—databases, APIs, cloud, and on-prem
-              systems—into a unified data ecosystem.
+              modern data-driven enterprises. We design and implement scalable
+              data pipelines that seamlessly connect multiple sources—databases,
+              APIs, cloud, and on-prem systems—into a unified data ecosystem.
             </p>
-            <p className="text-lg text-muted-foreground text-left max-w-6xl mx-auto">
-              
-            </p>
+            <p className="text-lg text-muted-foreground text-left max-w-6xl mx-auto"></p>
             <p className="text-lg text-muted-foreground text-left max-w-6xl mx-auto">
               By leveraging cloud-native platforms and cutting-edge
               technologies, we ensure that data is not only accessible but also
@@ -41,30 +39,61 @@ const DataEngineering = () => {
             <div className="grid md:grid-cols-2 gap-12 mb-16">
               <div>
                 <h2 className="text-2xl font-semibold text-foreground mb-6">
+                  Data migration
+                </h2>
+                <p>
+                  We help businesses seamlessly migrate their data from legacy
+                  systems to modern platforms with minimal downtime and zero
+                  data loss. Our approach ensures secure, reliable, and
+                  cost-effective transfers across databases, applications, and
+                  cloud environments. Using automation and industry-best
+                  practices, we simplify complex migration processes, enabling
+                  startups and growing enterprises to unlock the full potential
+                  of their data without disruption to business operations.
+                </p>
+              </div>
+            </div>
+
+            <div className="grid md:grid-cols-2 gap-12 mb-16">
+              <div>
+                <h2 className="text-2xl font-semibold text-foreground mb-6">
                   What We Offer
                 </h2>
                 <ul className="space-y-4 text-muted-foreground">
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Scalable data pipelines for seamless data flow and integration</span>
-                  </li>
-                  <li className="flex items-start gap-3">
-                    <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Data warehousing solutions for structured storage and fast analytics</span>
-                  </li>
-                  <li className="flex items-start gap-3">
-                    <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
                     <span>
-                     Real-time data streaming for instant insights and decision-making
+                      Scalable data pipelines for seamless data flow and
+                      integration
                     </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>Data lake architecture for handling large volumes of diverse data</span>
+                    <span>
+                      Data warehousing solutions for structured storage and fast
+                      analytics
+                    </span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
-                    <span>ETL/ELT automation to ensure clean, reliable, and ready-to-use data</span>
+                    <span>
+                      Real-time data streaming for instant insights and
+                      decision-making
+                    </span>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
+                    <span>
+                      Data lake architecture for handling large volumes of
+                      diverse data
+                    </span>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <span className="w-2 h-2 gradient-primary rounded-full mt-2 flex-shrink-0"></span>
+                    <span>
+                      ETL/ELT automation to ensure clean, reliable, and
+                      ready-to-use data
+                    </span>
                   </li>
                 </ul>
               </div>
@@ -80,7 +109,6 @@ const DataEngineering = () => {
                   <div>Apache Kafka</div>
                   <div>Azure Data Factory (ADF)</div>
                   <div>More...</div>
-
                 </div>
               </div>
             </div>
