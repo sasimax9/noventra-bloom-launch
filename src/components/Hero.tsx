@@ -18,7 +18,7 @@ const Hero = () => {
             </h1>
             
             <p className="mt-6 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto lg:mx-0">
-              We empower startups and enterprises with cutting-edge technology solutions that drive growth, 
+              We empower mid scale partners with cutting-edge technology solutions that drive growth, 
               enhance efficiency, and create exceptional user experiences.
             </p>
 
@@ -44,7 +44,7 @@ const Hero = () => {
                 href="/contact"
                 className="gradient-primary text-primary-foreground px-8 py-4 rounded-lg font-semibold transition-smooth hover-lift inline-flex items-center justify-center gap-2"
               >
-                Start Your Project
+                Quick Connect
                 <ArrowRight className="h-5 w-5" />
               </a>
               <a
@@ -74,7 +74,7 @@ const Hero = () => {
       </div>
 
       {/* Stats Section */}
-      <div className="mt-20 pt-16 border-t border-border">
+      {/* <div className="mt-20 pt-16 border-t border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div className="space-y-2">
@@ -118,7 +118,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };

@@ -10,6 +10,7 @@ interface SubMenuItem {
   description?: string;
 }
 
+
 interface MenuItem {
   title: string;
   href: string;
@@ -20,7 +21,7 @@ const menuItems: MenuItem[] = [
   { title: "Home", href: "/" },
   {
     title: "About Us",
-    href: "/about",
+    href: "",
     subItems: [
       { title: "Our Story", href: "/about/story", description: "Learn about our journey" },
       { title: "Team", href: "/about/team", description: "Meet our experts" },
@@ -28,30 +29,71 @@ const menuItems: MenuItem[] = [
     ],
   },
   {
-    title: "Services",
-    href: "/services",
+    title: "Domains",
+    href: "",
     subItems: [
       {
         title: "Supply Chain & Manufacturing",
-        href: "/services/web",
+        href: "/domains/web",
         description: "Transforming supply chains with data-driven intelligence for agility and resilience.",
       },
+  
       {
         title: "Healthcare & Life Sciences",
-        href: "/services/mobile",
+        href: "/domains/mobile",
         description: "Enabling better patient outcomes and operational efficiency through secure data solutions.",
       },
       {
         title: "FinTech & Financial Services",
-        href: "/services/strategy",
+        href: "/domains/strategy",
         description: "Driving smarter decisions, risk reduction, and innovation in digital finance.",
       },
-      { title: "Cross-Industry Value", href: "/services/cloud", description: "No matter the domain, our expertise ensures:" },
+      { title: "Cross-Industry Value", href: "/domains/cloud", description: "No matter the domain, our expertise ensures:" },
+    ],
+  },
+   {
+    title: "Services",
+    href: "",
+   subItems: [
+      {
+        title: "Data Engineering",
+        href: "/services/dataengineering",
+        description: "",
+      },
+  
+      {
+        title: "Data Visualization & Analytics",
+        href: "/services/datavisualizationanalytics",
+       
+        description: "",
+      },
+      {
+        title: "AI & Machine Learning",
+        href: "/services/aimachinelearning",
+        description: "",
+      },
+       {
+        title: "Cloud Infrastructure",
+        href: "/services/cloudinfrastructure",
+        description: "",
+      },
+  
+      {
+        title: "UI/UX Design",
+        href: "/services/uxdesign",
+        description: "",
+      },
+       {
+        title: "Realtime Data Streaming",
+        href: "/services/realtimedata",
+        description: "",
+      },
+     
     ],
   },
   {
     title: "Case Studies",
-    href: "/case-studies",
+    href: "",
     subItems: [
       { title: "E-commerce", href: "/case-studies/ecommerce", description: "Online retail solutions" },
       { title: "Healthcare", href: "/case-studies/healthcare", description: "Medical tech innovations" },

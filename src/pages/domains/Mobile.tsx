@@ -106,7 +106,7 @@ const Mobile = () => {
                 Let's turn your mobile app idea into reality with our expert development team.
               </p>
               <a href="/contact" className="gradient-primary text-primary-foreground px-6 py-3 rounded-md font-medium hover-lift transition-smooth">
-                Start Your Project
+               Quick Connect
               </a>
             </div>
           </div>

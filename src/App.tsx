@@ -12,23 +12,28 @@ import Team from "./pages/about/Team";
 import Mission from "./pages/about/Mission";
 
 // Services Pages
-import Web from "./pages/services/Web";
-import Mobile from "./pages/services/Mobile";
-import Strategy from "./pages/services/Strategy";
-import Cloud from "./pages/services/Cloud";
+import Web from "./pages/domains/Web";
+import Mobile from "./pages/domains/Mobile";
+import Strategy from "./pages/domains/Strategy";
+import Cloud from "./pages/domains/Cloud";
 
 // Case Studies Pages
 import Ecommerce from "./pages/case-studies/Ecommerce";
 import Healthcare from "./pages/case-studies/Healthcare";
 import Fintech from "./pages/case-studies/Fintech";
-import SiteHeader from "./components/SiteHeader";
+import DataEngineering from "./pages/services/dataengineering";
+import DataVisualization from "./pages/services/datavisualizationanalytics";
+import AIMachineLearning from "./pages/services/aimachinelearning";
+import CloudInfrastructure from "./pages/services/cloudinfrastructure";
+import UIUXDesign from "./pages/services/uxdesign";
+import RealtimeDataStreaming from "./pages/services/realtimedata";
+import Contact from "./components/Contact";
+import ContactUs from "./pages/contactus";
 
 const queryClient = new QueryClient();
 
 const App = () => (
-  
   <QueryClientProvider client={queryClient}>
-    
     <TooltipProvider>
       {/* <SiteHeader /> */}
       <Toaster />
@@ -36,25 +41,46 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
-          
+
           {/* About Routes */}
           <Route path="/about/story" element={<Story />} />
           <Route path="/about/team" element={<Team />} />
           <Route path="/about/mission" element={<Mission />} />
-          
-          {/* Services Routes */}
-          <Route path="/services/web" element={<Web />} />
-          <Route path="/services/mobile" element={<Mobile />} />
-          <Route path="/services/strategy" element={<Strategy />} />
-          <Route path="/services/cloud" element={<Cloud />} />
-          
+
+          {/* domains Routes */}
+          <Route path="/domains/web" element={<Web />} />
+          <Route path="/domains/mobile" element={<Mobile />} />
+          <Route path="/domains/strategy" element={<Strategy />} />
+          <Route path="/domains/cloud" element={<Cloud />} />
+
+          {/* services Routes */}
+          <Route
+            path="/services/dataengineering"
+            element={<DataEngineering />}
+          />
+          <Route
+            path="/services/datavisualizationanalytics"
+            element={<DataVisualization />}
+          />
+          <Route
+            path="/services/aimachinelearning"
+            element={<AIMachineLearning />}
+          />
+          <Route
+            path="/services/cloudinfrastructure"
+            element={<CloudInfrastructure />}
+          />
+          <Route path="/services/uxdesign" element={<UIUXDesign />} />
+          <Route path="/services/realtimedata" element={<RealtimeDataStreaming />} />
+
           {/* Case Studies Routes */}
           <Route path="/case-studies/ecommerce" element={<Ecommerce />} />
           <Route path="/case-studies/healthcare" element={<Healthcare />} />
           <Route path="/case-studies/fintech" element={<Fintech />} />
-          
+
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
+          <Route path="/contact" element={<ContactUs />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>

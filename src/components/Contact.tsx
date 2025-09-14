@@ -1,28 +1,28 @@
 import { MessageCircle, Phone, Mail, MapPin, Send, Clock } from 'lucide-react';
 
 const contactMethods = [
-  {
-    icon: MessageCircle,
-    title: 'Live Chat',
-    description: 'Get instant support from our team',
-    action: 'Start Chat',
-    href: '#chat',
-    color: 'text-accent'
-  },
+  // {
+  //   icon: MessageCircle,
+  //   title: 'Live Chat',
+  //   description: 'Get instant support from our team',
+  //   action: 'Start Chat',
+  //   href: '#chat',
+  //   color: 'text-accent'
+  // },
   {
     icon: Phone,
     title: 'Call Us',
     description: 'Speak directly with our experts',
-    action: '+1 (555) 123-4567',
-    href: 'tel:+15551234567',
+    action: '+91 98851 94867',
+    href: 'tel:+919885194867',
     color: 'text-primary'
   },
   {
     icon: Mail,
     title: 'Email Us',
     description: 'Send us a detailed message',
-    action: 'hello@noventraone.com',
-    href: 'mailto:hello@noventraone.com',
+    action: 'group@noventraone.com',
+    href: 'mailto:group@noventraone.com',
     color: 'text-secondary'
   }
 ];
@@ -208,14 +208,14 @@ const Contact = () => {
         </div>
 
         {/* Chat Widget Placeholder */}
-        <div className="fixed bottom-6 right-6 z-50">
+        {/* <div className="fixed bottom-6 right-6 z-50">
           <button
             className="w-14 h-14 bg-accent hover:bg-accent-light text-accent-foreground rounded-full shadow-strong hover-lift flex items-center justify-center transition-smooth"
             title="Start Live Chat"
           >
             <MessageCircle className="h-6 w-6" />
           </button>
-        </div>
+        </div> */}
       </div>
     </section>
   );

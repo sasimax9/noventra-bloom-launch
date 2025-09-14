@@ -5,37 +5,37 @@ const services = [
     icon: Code,
     title: 'Data Engineering',
     description: 'Build secure, scalable, and efficient cloud data pipelines and architectures to manage data seamlessly.',
-    features: ['React & Next.js', 'Full-stack Solutions', 'API Integration', 'Responsive Design']
+    features: ['Scalable Data Pipelines', 'Data Integration', 'Data Quality & Governance', '	Cloud-Native Platforms','Performance Optimization']
   },
   {
     icon: Smartphone,
     title: 'Data Visualization & Analytics',
     description: 'Turn complex datasets into clear, interactive dashboards that drive business intelligence and decision-making.',
-    features: ['iOS & Android', 'React Native', 'UI/UX Design', 'App Store Optimization']
+    features: ['Interactive Dashboards', 'Real-Time Reporting', 'Advanced Analytics', '	Self-Service BI','Predictive Insights']
   },
   {
     icon: Cloud,
-    title: 'AI & Machine Learning',
+    title: 'AI/ML Solutions ',
     description: 'Deploy intelligent solutions that automate processes, uncover patterns, and provide predictive insights.',
-    features: ['AWS & Azure', 'DevOps', 'Microservices', 'Auto-scaling']
+    features: ['Predictive Modeling', 'Intelligent Automation', 'Natural Language Processing (NLP)', 'Computer Vision','End-to-End ML Lifecycle Management']
   },
   {
     icon: BarChart3,
-    title: 'Cloud Infrastructure',
+    title: 'Cloud Solutions  ',
     description: 'Deliver flexible, secure, and cost-effective cloud environments to support data and AI-driven workloads.',
-    features: ['Market Analysis', 'Technology Roadmap', 'Process Optimization', 'Growth Hacking']
+    features: ['Cloud Architecture & Design','Data Platform Modernization','Cloud Migration & Deployment','Security & Compliance','Cost Optimization & Scalability']
   },
   {
     icon: Palette,
     title: 'UI/UX Design',
     description: 'Beautiful, intuitive designs that create memorable user experiences and drive conversions.',
-    features: ['User Research', 'Prototyping', 'Design Systems', 'Usability Testing']
+    features: ['User-Centered Design','Interactive Prototyping','Responsive Interfaces','Accessibility & Usability','Visual Design Consistency']
   },
   {
     icon: Shield,
-    title: 'Cybersecurity',
+    title: 'Realtime Data Streaming',
     description: 'Comprehensive security solutions to protect your digital assets and customer data.',
-    features: ['Security Audits', 'Penetration Testing', 'Compliance', 'Incident Response']
+    features: ['Event-Driven Architectures','Stream Processing Pipelines','Low-Latency Data Ingestion','Scalable Messaging Systems','	Monitoring & Alerting']
   }
 ];
 

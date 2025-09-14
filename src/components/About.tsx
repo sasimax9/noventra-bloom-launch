@@ -100,9 +100,8 @@ const About = () => {
               Our Mission
             </h3>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              "To empower businesses of all sizes with innovative technology
-              solutions that drive growth, enhance efficiency, and create
-              meaningful connections between brands and their customers."
+              "Through innovative Data Engineering and AI/ML solutions, we simplify complexity and drive smarter decisions.
+Our goal is to create scalable, future-ready systems that fuel sustainable business growth."
             </p>
             <div className="mt-6 w-16 h-1 gradient-accent mx-auto rounded-full"></div>
           </div>
